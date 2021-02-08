@@ -1,7 +1,5 @@
-# Portfolio
-My professional portfolio.
-
 # Manan Patel
+!(/images/Manan.jpeg)
 
 # Professional Experience
 ## Blackmore Partners Inc, IL | IT/Software Developer Intern
