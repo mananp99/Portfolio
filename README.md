@@ -20,11 +20,7 @@ Applicant Tracking System (Python)
 
 
 # Contact Me
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
-mananviru123@gmail.com | Chicago, IL
+Please feel free to contact me at mananviru123@gmail.com
 
 
 
