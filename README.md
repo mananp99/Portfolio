@@ -2,12 +2,12 @@
 ![](/image/Manan.jpeg)
 
 # Professional Experience
-## Blackmore Partners Inc, IL | IT/Software Developer Intern
+### Blackmore Partners Inc, IL | IT/Software Developer Intern
 - Team Lead
 - Provide IT support to staff members and other intern
 - Interview IT intern candidates
 
-## Project
+### Project
 Applicant Tracking System (Python)
 - Wrote script to connect to webmail server and download resume attachment 
 - Wrote script to convert the downloded resumes to a text file
