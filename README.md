@@ -1,15 +1,15 @@
-## Portfolio
+# Portfolio
 My professional portfolio.
 
-## Manan Patel
+# Manan Patel
 
-## Professional Experience
-# Blackmore Partners Inc, IL | IT/Software Developer Intern
+# Professional Experience
+## Blackmore Partners Inc, IL | IT/Software Developer Intern
 - Team Lead
 - Provide IT support to staff members and other intern
 - Interview IT intern candidates
 
-# Project
+## Project
 Applicant Tracking System (Python)
 - Wrote script to connect to webmail server and download resume attachment 
 - Wrote script to convert the downloded resumes to a text file
@@ -18,7 +18,7 @@ Applicant Tracking System (Python)
 - Wrote script to filter qualified and non-qualified and send appropriate email to applicant
 
 
-## Contact Me
+# Contact Me
 mananviru123@gmail.com | 630-550-6830 | Chicago, IL
 
 
