@@ -1,5 +1,5 @@
 # Manan Patel
-!(/images/Manan.jpeg)
+![](/images/Manan.jpeg)
 
 # Professional Experience
 ## Blackmore Partners Inc, IL | IT/Software Developer Intern
