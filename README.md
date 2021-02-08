@@ -1,6 +1,9 @@
 # Manan Patel
 ![](/image/Manan.jpeg)
 
+# About Me
+Weclome to my portfolio. My name is Manan Patel. I am a senior at DePaul University, completing my Bachelors of Science in Computer Science with a minor in Data Science. My area of focus is in the backend with some experience in the frontend as well. I am currently interning at Blackmore Partners Inc. as the team lead of the IT/Software development team. Please feel free to explore my portfolio.
+
 # Professional Experience
 ### Blackmore Partners Inc, IL | IT/Software Developer Intern
 - Team Lead
@@ -17,7 +20,11 @@ Applicant Tracking System (Python)
 
 
 # Contact Me
-mananviru123@gmail.com | 630-550-6830 | Chicago, IL
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+mananviru123@gmail.com | Chicago, IL
 
 
 
