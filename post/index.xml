@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Home</title>
+    <link>https://example.com/post/</link>
+    <description>Recent content in Projects on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Mar 2021 12:00:00 -0500</lastBuildDate><atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MINIJAVA COMPILER DESIGN (JAVA ON ECLIPSE)</title>
+      <link>https://example.com/post/project-1/</link>
+      <pubDate>Sun, 14 Feb 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://example.com/post/project-1/</guid>
+      <description> Coded Lexical Analysis, Parser, Semantic Analysis, and Back End Translation for MiniJava Optimized it for a better performance  </description>
+    </item>
+    
+    <item>
+      <title>VIDEO SHOP APPLICATION (JAVA ON ECLIPSE) </title>
+      <link>https://example.com/post/project-2/</link>
+      <pubDate>Wed, 10 Feb 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://example.com/post/project-2/</guid>
+      <description> Wrote an object-oriented program that simulates a rental video shop functionality Created the framework with the goal of being able to update the app without affecting the app Used multiple patterns such as command pattern, factory pattern, and builder pattern  </description>
+    </item>
+    
+    <item>
+      <title>TASK MANAGEMENT WEB APPLICATION (FRAMER)</title>
+      <link>https://example.com/post/project-3/</link>
+      <pubDate>Wed, 11 Nov 2020 11:13:32 -0400</pubDate>
+      
+      <guid>https://example.com/post/project-3/</guid>
+      <description> Designed a working prototype for task management with peer-evaluation functionalities Designed a relational database for storing user information Used Agile methodology to manage the project  </description>
+    </item>
+    
+    <item>
+      <title>TETRIS (C# ON VISUAL STUDIOS)</title>
+      <link>https://example.com/post/project-4/</link>
+      <pubDate>Wed, 11 Nov 2020 11:13:32 -0400</pubDate>
+      
+      <guid>https://example.com/post/project-4/</guid>
+      <description> Designed and implemented a version of the game Tetris Followed the partitioning pattern in a Global Software Development environment Performed unit tests to check the correctness of the methods  </description>
+    </item>
+    
+  </channel>
+</rss>
